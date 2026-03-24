@@ -227,4 +227,6 @@ Actual Churned              39                  323
 
 ## 👤 Author
 
-Built as part of a Data Science learning project covering EDA, feature engineering, and classification modeling with scikit-learn.
+[![GitHub](https://img.shields.io/badge/GitHub-penmalik-black?logo=github)](https://github.com/penmalik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ugochukwu-nnamani-9b3a27255/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle)](https://www.kaggle.com/ugonnamani)
